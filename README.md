@@ -1,6 +1,6 @@
 # RAG-UNLEARNED
 
-**Projet RAG** pour la gestion de documents sur le Sahara Occidental, avec un backend en Python et un frontend en Vue.js.
+**Projet RAG** pour la gestion de documents sur le Sahara marocain, avec un backend en Python et un frontend en Vue.js.
 
 ---
 
