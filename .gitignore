@@ -9,4 +9,8 @@ node_modules/
 
 # Environnements
 .env
+<<<<<<< HEAD
 .env.*
+=======
+ 
+>>>>>>> 4de28c3 (Initial clean commit)
