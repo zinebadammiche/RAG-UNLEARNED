@@ -59,7 +59,7 @@ cd RAG-UNLEARNED
      ```
 5. Lancez le serveur backend :
    ```bash
-   uvicorn main\:app --reload --port 8001  # ou 8000 selon votre configuration
+   uvicorn main\:app --reload --port 8001  # ou 8000  
    ```
 
 ---
@@ -74,14 +74,8 @@ cd RAG-UNLEARNED
    ```bash
    npm install
    ```
-3. Copiez le fichier `.env.example` en `.env` (si nécessaire) :
-   ```bash
-   # Windows
-   copy .env.example .env
-   # Linux / Mac
-   cp .env.example .env
-   ```
-4. Lancez le serveur de développement :
+ 
+3. Lancez le serveur de développement :
    ```bash
    npm run dev
    ```
